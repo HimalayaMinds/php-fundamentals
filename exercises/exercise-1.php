@@ -1,0 +1,7 @@
+<?php
+/**
+ * Exercise One
+ * 
+ */
+
+?>

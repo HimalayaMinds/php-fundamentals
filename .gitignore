@@ -1,0 +1,20 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PHPStorm files
+.idea/
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore local environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+/build/

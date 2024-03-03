@@ -31,7 +31,8 @@ a:hover {
 .page-header {
    background-color: #4f5b93;
    background-image: unset;
-   background: url(../assets/page-header-background.png) no-repeat center center;
+   background: url(../assets/img/page-header-background.png) no-repeat center
+      center;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;

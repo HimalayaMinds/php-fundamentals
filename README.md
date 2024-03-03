@@ -4,7 +4,7 @@ Welcome to the PHP Fundamentals repository! This repository is designed to help 
 
 🚀 #PHP #PhpFundamentals #PhpBasic #OpenSource
 
-![learn PHP Fundamentals](./assets/php-fundamental.jpg)
+![learn PHP Fundamentals](./assets/img/php-fundamental.jpg)
 
 # PHP Basics :
 

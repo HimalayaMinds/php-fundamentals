@@ -6,9 +6,7 @@ Welcome to the PHP Fundamentals repository! This repository is designed to help 
 
 ![learn PHP Fundamentals](./assets/php-fundamental.jpg)
 
-### **PHP Basics:**
-
----
+# PHP Basics :
 
 #### 1. **Introduction:**
 
@@ -53,7 +51,7 @@ $y = 5;
 $sum = $x + $y;
 ```
 
-### **Control Structures:**
+# **Control Structures:**
 
 #### 6. **Conditionals:**
 
@@ -78,7 +76,7 @@ for ($i = 0; $i < 5; $i++) {
 }
 ```
 
-### **Functions:**
+# **Functions:**
 
 #### 8. **Functions:**
 
@@ -101,7 +99,7 @@ $colors = array("Red", "Green", "Blue");
 $info = array("name" => "John", "age" => 30);
 ```
 
-### **File Handling:**
+# **File Handling:**
 
 #### 10. **File Handling:**
 
@@ -113,7 +111,7 @@ echo fread($file, filesize("example.txt"));
 fclose($file);
 ```
 
-### **Database Connectivity:**
+# **Database Connectivity:**
 
 #### 11. **Database Connection:**
 
@@ -123,7 +121,7 @@ fclose($file);
 $conn = new mysqli("localhost", "username", "password", "database");
 ```
 
-### **Security:**
+# **Security:**
 
 #### 12. **Security:**
 
